@@ -1,6 +1,6 @@
 # Project Title
 
-jQuery Plugin Project
+Department website
 
 ## Getting Started
 
