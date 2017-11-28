@@ -1,0 +1,26 @@
+body{
+  background-color: #222;
+  /*font-family: Verdana,sans-serif*/
+}
+h2{
+  text-align: center;
+  color: #F36E21;
+}
+h5{
+  text-align: center;
+  color:white;
+}
+h3{
+  text-align: justify;
+}
+li{
+  text-align: justify;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+    border: 1px solid #ff7200;
+    background:  #ff8c00;
+    font-weight: normal;
+    color: black;
+}

@@ -1,0 +1,45 @@
+body{
+  background-color: #222;
+  /*font-family: Verdana,sans-serif*/
+}
+
+.faculty-members
+{
+  display:inline-grid;
+  /*display: -ms-inline-grid;*/
+  float: left;
+  width: 200px;
+  height:auto;
+  padding-right: 5px;
+  text-align: center;
+  border-style: solid;
+  margin: 5px;
+  border-radius: 5px;
+  /*border-color: orange;*/
+  cursor: pointer;
+  background-color: #ff8c00;
+}
+.faculty-members a {
+  height: auto;
+  width: 200px;
+}
+#subTitle-staff{
+  text-align: center;
+  color: white;
+}
+#title-faculty {
+  color: #ff8c00;
+  text-align: center;
+}
+#faculty {
+  text-align: center;
+}
+li {
+  text-align: justify;
+}
+img {
+  text-align: center;
+}
+.faculty-members h4,.faculty-members h3{
+  text-align: center;
+}

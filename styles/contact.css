@@ -1,0 +1,27 @@
+/*default basic styles that can be overriden*/
+.contact-body{
+background-color: #222;
+/*font-family: Verdana,sans-serif*/
+}
+#formContainer{
+padding: 2em;
+  color: #ff8c00;
+}
+.alert{
+border-radius:2px;
+padding: 1em;
+}
+.alert-warning{
+color: #8a6d3b;
+background-color: #fcf8e3;
+border-color: #faebcc;
+}
+li {
+  text-align: center;
+}
+p,label {
+  color: #ff8c00;
+}
+.title-item{
+  color: #ff8c00;
+}

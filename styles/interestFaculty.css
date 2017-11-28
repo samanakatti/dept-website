@@ -1,0 +1,35 @@
+body{
+  background-color: #222;
+  /*font-family: Verdana,sans-serif*/
+}
+.fac-res
+  {
+    display:inline-grid;
+    /*display: -ms-inline-grid;*/
+    float: left;
+    width: 200px;
+    height:100px;
+    padding-right: 5px;
+    text-align: center;
+    border-style: solid;
+    margin: 5px;
+    border-radius: 5px;
+    /*border-color: orange;*/
+    cursor: pointer;
+    background-color: #ff8c00;
+  }
+  h2{
+    text-align: center;
+    color: #F36E21;
+  }
+  h5{
+    text-align: center;
+    color: white;
+  }
+  h3
+  {
+    text-align: center;
+  }
+  #researchFaculty {
+    text-align: center;
+  }
